@@ -1,13 +1,10 @@
-<!-- Cyber-Pink Animated Hero Banner -->
+<!-- Full-Width Animated Cyber Battlestation Hero Banner -->
 <p align="center">
-  <img width="100%" src="assets/cyber-banner.svg" alt="Tiara Mamuaya - Cyber-Pink Mobile Developer Hero Banner" />
+  <img width="100%" src="assets/tiara-hero.gif" style="border-radius: 20px; box-shadow: 0 12px 40px rgba(255, 42, 133, 0.28);" alt="Tiara Mamuaya - Animated Cyber-Pink Mobile Developer Hero Banner" />
 </p>
 
-<!-- Live Typing Animation & Character Showcase -->
+<!-- Live Typing Animation & Identity Badges -->
 <div align="center">
-  <img width="380" src="assets/tiara-coder.gif" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(255, 42, 133, 0.35);" alt="Tiara Mamuaya - Mobile Developer Animated Avatar" />
-
-  <br /><br />
 
   <a href="https://github.com/prettyara12">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=640&lines=%3E_%20Hi%20there%2C%20I%27m%20Tiara%20Mamuaya%20%E2%9C%A8;%3E_%20Mobile%20Application%20Developer%20%F0%9F%93%B1;%3E_%20React%20Native%20%26%20Expo%20Specialist%20%E2%9A%A1;%3E_%20Crafting%20Pixel-Perfect%20Mobile%20Apps%20%F0%9F%9A%80;%3E_%20Turning%20Coffee%20into%20Clean%20Code%20%E2%98%95%F0%9F%92%BB;%3E_%20Informatics%20%40%20Universitas%20Klabat%20%F0%9F%8E%93" alt="Typing SVG" />
