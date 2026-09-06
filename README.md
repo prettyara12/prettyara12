@@ -5,7 +5,7 @@
 
 <!-- Live Typing Animation & Character Showcase -->
 <div align="center">
-  <img width="380" src="assets/tiara-coder.jpg" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(255, 42, 133, 0.35);" alt="Tiara Mamuaya - Mobile Developer Avatar" />
+  <img width="380" src="assets/tiara-coder.gif" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(255, 42, 133, 0.35);" alt="Tiara Mamuaya - Mobile Developer Animated Avatar" />
 
   <br /><br />
 
